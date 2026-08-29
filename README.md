@@ -2,7 +2,7 @@
 
 # Olá, eu sou Guilherme Henrique Capodeferro 👋
 
-## Power BI ·  Analista de Dados · Engenharia de Dados
+## Power BI ·  Analista de Dados · Estudante de Engenharia de Dados
 
  Transformando dados operacionais em soluções analíticas, automações e pipelines que apoiam decisões de negócio.
 
