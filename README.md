@@ -9,11 +9,11 @@
 <br>
 
 <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:seuemail@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="E-mail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </div>
