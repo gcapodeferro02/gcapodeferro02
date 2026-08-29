@@ -2,9 +2,9 @@
 
 # Olá, eu sou Guilherme Henrique 👋
 
-### Analista de Dados · BI · Power BI · Engenharia de Dados
+## Analista de Dados · BI · Power BI · Engenharia de Dados
 
-> Transformando dados operacionais em soluções analíticas, automações e pipelines que apoiam decisões de negócio.
+ Transformando dados operacionais em soluções analíticas, automações e pipelines que apoiam decisões de negócio.
 
 <br>
 
