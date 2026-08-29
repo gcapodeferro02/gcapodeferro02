@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Guilherme Henrique 👋
+# Olá, eu sou Guilherme Henrique Capodeferro 👋
 
 ## Power BI ·  Analista de Dados · Engenharia de Dados
 
