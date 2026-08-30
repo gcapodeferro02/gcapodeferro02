@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="./IMG_2172.png" alt="Radar de Skills" width="450" />
+  <img width="1463" height="1334" alt="skills-radar" src="https://github.com/user-attachments/assets/60deb084-567d-427b-b198-d5bdeac263fd" />
 </div>
 
 
