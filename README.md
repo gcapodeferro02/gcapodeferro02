@@ -18,8 +18,8 @@
 
 </div>
 <br>
-
 <div align="center">
-  <img src="./IMG_2169.png" alt="Radar de Skills" width="500" />
+  <img src="./IMG_2172.png" alt="Radar de Skills" width="450" />
 </div>
+
 
