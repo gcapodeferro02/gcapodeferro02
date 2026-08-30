@@ -17,3 +17,9 @@
 </a>
 
 </div>
+<br>
+
+<div align="center">
+  <img src="./IMG_2169.png" alt="Radar de Skills" width="500" />
+</div>
+
